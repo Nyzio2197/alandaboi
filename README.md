@@ -51,7 +51,7 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 <details>
   <summary>Other Info</summary>
 
-  ![Top Langs](https://github-readme-stats.alandaboi.vercel.app/api/top-langs/?username=alandaboi&layout=compact&hide_border=true)
+  ![Most Used Languages](https://github-readme-stats.alandaboi.vercel.app/api/top-langs/?username=alandaboi&layout=compact&hide_border=true)
 
 </details>
 
