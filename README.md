@@ -36,6 +36,15 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alandaboi&count_private=true&show_icons=true&hide_border=true)
 
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandaboi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
