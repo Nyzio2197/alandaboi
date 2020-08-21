@@ -38,11 +38,11 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandaboi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandaboi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
