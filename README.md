@@ -38,7 +38,7 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 
 <br />
 
-![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true&hide_border=true)](https://github.com/alandaboi/OdinV4)
+[![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true&hide_border=true)](https://github.com/alandaboi/OdinV4)
 
 <br />
 
