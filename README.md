@@ -39,9 +39,9 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 <details>
   <summary>Most Worked on Repos</summary>
 
-  [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true)][https://github.com/alandaboi/OdinV4]
+  [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true)](https://github.com/alandaboi/OdinV4)
 
-  [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=CS50AI&show_owner=true)][https://github.com/alandaboi/CS50AI]
+  [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=CS50AI&show_owner=true)](https://github.com/alandaboi/CS50AI)
 
 
 </details>
