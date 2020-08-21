@@ -48,6 +48,12 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 
 <br />
 
+<details>
+  <summary>Other Info</summary>
+
+  ![Most Used Languages](https://github-readme-stats.alandaboi.vercel.app/api/top-langs/?username=alandaboi&layout=compact&hide_border=true)
+
+</details>
 
 
 
