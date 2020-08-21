@@ -37,19 +37,19 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 ![Alan's GitHub stats](https://github-readme-stats.alandaboi.vercel.app/api?username=alandaboi&count_private=true&show_icons=true&hide_border=true)
 
 <details>
+  <summary>Most Worked on Repos</summary>
+
+  [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true)][https://github.com/alandaboi/OdinV4]
+
+  [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=CS50AI&show_owner=true)][https://github.com/alandaboi/CS50AI]
+
+
+</details>
+
+<br />
+
+<details>
   <summary>Other Info</summary>
-
-  <details>
-    <summary>Most Worked on Repos</summary>
-
-    [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=OdinV4&show_owner=true)][https://github.com/alandaboi/OdinV4]
-
-    [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=CS50AI&show_owner=true)][https://github.com/alandaboi/CS50AI]
-
-
-  </details>
-
-  <br />
 
   ![Top Langs](https://github-readme-stats.alandaboi.vercel.app/api/top-langs/?username=alandaboi&layout=compact&hide_border=true)
 
