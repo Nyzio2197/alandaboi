@@ -34,7 +34,7 @@ I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) 
 ---
 
 
-![Alan's GitHub stats](https:/github-readme-stats.alandaboi.vercel.app/api?username=alandaboi&count_private=true&show_icons=true&hide_border=true)
+![Alan's GitHub stats](https://github-readme-stats.alandaboi.vercel.app/api?username=alandaboi&count_private=true&show_icons=true&hide_border=true)
 
 <br />
 
