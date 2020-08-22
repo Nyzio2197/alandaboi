@@ -1,11 +1,13 @@
 ### Hello, I'm Alan - aka [AXC Development](https://play.google.com/store/apps/developer?id=AXC+Development)
 
 ## I'm a Student and a Developer
-I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) and [SKK's Secretariat](https://play.google.com/store/apps/details?id=com.axcdevelopment.azurlanesecretary)
+- I'm currently working on 2 projects, [Odin](https://alandaboi.github.io/OdinV4) and [SKK's Secretariat](https://play.google.com/store/apps/details?id=com.axcdevelopment.azurlanesecretary)
+- Outside of coding I like to play tennis, piano, and Azur Lane
 
 ### Connect with me
 
 [<img align="left" alt="Alan Xiao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 <br />
