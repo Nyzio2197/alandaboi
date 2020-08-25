@@ -47,6 +47,8 @@
 
   [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=CS50AI&show_owner=true)](https://github.com/alandaboi/CS50AI)
 
+  [![ReadMe Card](https://github-readme-stats.alandaboi.vercel.app/api/pin/?username=alandaboi&repo=ALSv2&show_owner=true)](https://github.com/alandaboi/ALSv2s)
+
 
 </details>
 
